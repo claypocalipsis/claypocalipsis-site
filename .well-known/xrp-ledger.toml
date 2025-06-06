@@ -1,0 +1,15 @@
+[METADATA]
+modified = 2025-06-06
+
+[[CURRENCIES]]
+currency = "CLAY"
+issuer = "rfiJDsLUQ3ET4UyLN3vrvRn1BaVoEjpi5Z"
+description = "The official token of Claypocalipsis."
+decimals = 6
+image = "https://claypocalipsis.github.io/claypocalipsis-site/logoclay.png"
+
+[[ACCOUNTS]]
+address = "rfiJDsLUQ3ET4UyLN3vrvRn1BaVoEjpi5Z"
+network = "main"
+twitter = "https://x.com/claypocalipsis"
+telegram = "https://t.me/claypocalipsis"
