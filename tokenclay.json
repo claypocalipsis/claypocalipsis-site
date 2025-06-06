@@ -1,0 +1,14 @@
+{
+  "name": "Clay Token",
+  "token": "CLAY",
+  "currency_hex": "434C415900000000000000000000000000000000000000000000000000000000",
+  "decimals": 6,
+  "issuer": "rfiJDsLUQ3ET4UyLN3vrvRn1BaVoEjpi5Z",
+  "description": "The official token of Claypocalipsis. A memetoken born from plastilina and chaos.",
+  "image": "https://claypocalipsis.github.io/claypocalipsis-site/logoclay.png",
+  "website": "https://claypocalipsis.github.io/claypocalipsis-site/",
+  "social": {
+    "twitter": "https://x.com/claypocalipsis",
+    "telegram": "https://t.me/claypocalipsis"
+  }
+}
